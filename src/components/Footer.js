@@ -15,7 +15,7 @@ function Footer() {
           <h3>Designed and Developed by Darpan Sharma</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} DS</h3>
+          <h3>Copyright © {year} Corsa Automations</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
