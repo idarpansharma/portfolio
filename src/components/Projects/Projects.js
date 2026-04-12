@@ -29,7 +29,8 @@ function Projects() {
               imgPath={dev}
               isBlog={false}
               title="RAG using Ollama LLM"
-              description="A Retrieval-Augmented Generation (RAG) system that leverages local LLMs via Ollama to provide context-aware responses. This project demonstrates efficient information retrieval and generation using LangChain and vector databases, ensuring domain-specific accuracy and reducing hallucinations."
+              description="Ever imagined a bot that works offline, no token limits, no API costs?
+              A Retrieval-Augmented Generation (RAG) system that leverages local LLMs via Ollama to provide context-aware responses. This project demonstrates efficient information retrieval and generation using LangChain and vector databases, ensuring domain-specific accuracy and reducing hallucinations."
               ghLink="https://github.com/idarpansharma/RAG-model-idarpan.git"
               demoLink="https://github.com/idarpan-sharma"
             />
