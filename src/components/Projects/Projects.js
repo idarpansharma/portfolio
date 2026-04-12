@@ -28,8 +28,8 @@ function Projects() {
             <ProjectCard
               imgPath={dev}
               isBlog={false}
-              title="Local LLM Fine-Tuning & RAG System"
-              description="Fine-tuned and deployed local Large Language Models using Ollama, optimizing model responses for domain-specific queries. Built a Retrieval-Augmented Generation (RAG) pipeline using LangChain and vector databases to enable semantic search and context-aware responses."
+              title="RAG using Ollama LLM"
+              description="A Retrieval-Augmented Generation (RAG) system that leverages local LLMs via Ollama to provide context-aware responses. This project demonstrates efficient information retrieval and generation using LangChain and vector databases, ensuring domain-specific accuracy and reducing hallucinations."
               ghLink="https://github.com/idarpansharma/RAG-model-idarpan.git"
               demoLink="https://github.com/idarpan-sharma"
             />
