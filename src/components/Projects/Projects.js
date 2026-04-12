@@ -30,7 +30,7 @@ function Projects() {
               isBlog={false}
               title="Local LLM Fine-Tuning & RAG System"
               description="Fine-tuned and deployed local Large Language Models using Ollama, optimizing model responses for domain-specific queries. Built a Retrieval-Augmented Generation (RAG) pipeline using LangChain and vector databases to enable semantic search and context-aware responses."
-              ghLink="https://github.com/idarpan-sharma"
+              ghLink="https://github.com/idarpansharma/RAG-model-idarpan.git"
               demoLink="https://github.com/idarpan-sharma"
             />
           </Col>
@@ -41,7 +41,7 @@ function Projects() {
               isBlog={false}
               title="AI Brand Content Generator"
               description="Developed an AI-powered system that converts text prompts into brand-personalized social media visuals using the Gemini API. Integrates prompt engineering and specialized AI Image Generation techniques."
-              ghLink="https://github.com/idarpan-sharma"
+              ghLink="https://github.com/idarpansharma/Imagina-AI.git"
               demoLink="https://github.com/idarpan-sharma"
             />
           </Col>
@@ -52,7 +52,7 @@ function Projects() {
               isBlog={false}
               title="AI Virtual Avatar & Text-to-Speech"
               description="Built an interactive AI virtual avatar system capable of converting text into realistic speech with custom face integration. Implemented 3D character rendering combined with AI-driven speech synthesis for immersive, interactive conversational experiences."
-              ghLink="https://github.com/idarpan-sharma"
+              ghLink="https://github.com/idarpansharma/TTS-3D-model-idarpan.git"
               demoLink="https://github.com/idarpan-sharma"              
             />
           </Col>
@@ -63,7 +63,7 @@ function Projects() {
               isBlog={false}
               title="Real-Time Smart Parking Management"
               description="Built a machine-learning-based system to predict and manage parking space availability using IoT sensors and cameras. Employed OpenCV and custom Flask pipelines integrated into IoT edge computing devices."
-              ghLink="https://github.com/idarpan-sharma"
+              ghLink="https://github.com/idarpansharma/Smart-Parking-Management-System-using-ML.git"
               demoLink="https://github.com/idarpan-sharma"
             />
           </Col>
