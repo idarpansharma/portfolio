@@ -13,8 +13,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m an AI Researcher and Web Developer who loves transforming ideas into
-              intelligent, scalable products. My focus lies at the intersection of Artificial Intelligence and modern web technologies.
+              I’m an AI Researcher and Developer at Xonier technologies based in Noida, & loves transforming ideas into intelligent, scalable products. My focus lies at the intersection of Artificial Intelligence and modern web technologies.I’m proficient in Python, JavaScript, and specialized AI frameworks. My key areas of expertise include LLMs, Retrieval-Augmented Generation (RAG), and Agentic Workflows. Whenever possible, I love building applications that utilize LangChain, Vector Databases and modern APIs like OpenAI, Gemini API, and locally hosted Ollama models.
               <br />
               <br />
               I’m proficient in
