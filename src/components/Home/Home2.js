@@ -31,7 +31,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  LLMs, Retrieval-Augmented Generation (RAG), and Agentic Workflows.{" "}
+                  LLMs, Retrieval-Augmented Generation (RAG), Voice & Chat bots & Agentic Workflows.{" "}
                 </b>
               </i>
               <br />
